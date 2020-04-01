@@ -1,0 +1,8 @@
+{
+    "LOG_DIR": "./logs",
+    "REPORT_DIR": "./reports",
+    "REPORT_SIZE": 1000,
+    "LOG_FILE": "out.log",
+    "ERRORS_TRESHOLD": 0.01,
+    "TS_FILE": "./log_analyzer.ts"
+}
